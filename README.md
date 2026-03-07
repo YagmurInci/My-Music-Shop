@@ -1,2 +1,2 @@
-# MuzikDukkan-m-odev1
+# Müzik Dükkanım
 odev1
